@@ -1,0 +1,39 @@
+{
+    "TLVApartmentPosts": [
+        {
+            "Id": 1,
+            "UserName": "Shani Yakir",
+            "PostText": "We leave our great and light apartment under good circumstances. DM me for more Details.",
+            "NameOfGroup": "TLV Center Apartments For rent",
+            "PostDate": "25/11/2022 10:25"
+        },
+        {
+            "Id": 2,
+            "UserName": "Avi Ron",
+            "PostText": "We leave our great and light apartment under good circumstances. DM me for more Details.",
+            "NameOfGroup": "TLV North Apartments For Rent",
+            "PostDate": "25/11/2022 12:25"
+        },
+        {
+            "Id": 3,
+            "UserName": "Ella Cohen",
+            "PostText": "We leave our great and light apartment under good circumstances. DM me for more Details.",
+            "NameOfGroup": "TLV from Center to south Apartments For Rent",
+            "PostDate": "25/11/2022 15:30"
+        },
+        {
+            "Id": 4,
+            "UserName": "Eden Yakir",
+            "PostText": "We leave our great and light apartment under good circumstances. DM me for more Details.",
+            "NameOfGroup": "TLV Center Apartments the only group with no tax Mediation",
+            "PostDate": "27/11/2022 10:25"
+        },
+        {
+            "Id": 5,
+            "UserName": "Amir Oren",
+            "PostText": "We leave our great and light apartment under good circumstances. DM me for more Details.",
+            "NameOfGroup": "TLV Center Apartments- the only group who wont force you to buy furniture for an apartment",
+            "PostDate": "24/11/2022 10:25"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "CarPosts": [
+        {
+
+            "Id": 1,
+            "UserName": "Shani Yakir",
+            "PostText": "Who wants to buy an awesome new Kia Picanto well reserved? DM for more details!",
+            "NameOfGroup": "Kia Picanto Rent Group",
+            "PostDate": "25/11/2022 10:25"
+        },
+
+        {
+            "id": 2,
+            "UserName": "Micha Napo",
+            "PostText": "Who wants to buy an awsome new Chevrolet Spark well reserved? DM for more details!",
+            "NameOfGroup": "Chevrolet Spark is the best Car Rent Group",
+            "PostDate": "25/11/2022 12:35"
+        },
+
+        {
+            "id": 3,
+            "UserName": "Moti Lochim",
+            "PostText": "Who wants to buy an awsome new Hyundai i20 well reserved? DM for more details!",
+            "NameOfGroup": "The only group for selling or renting cars",
+            "PostDate": "20/11/2022 12:35"
+        },
+
+        {
+            "id": 4,
+            "UserName": "Bery Tsakala",
+            "PostText": "Who wants to buy an awsome new Toyota Land Cruiser well reserved? DM for more details!",
+            "NameOfGroup": "Land Cruiser rules! Car Rent Group",
+            "PostDate": "24/11/2022 02:10"
+        },
+
+        {
+            "id": 5,
+            "UserName": "Monique Ron",
+            "PostText": "Who wants to buy an awsome new Mazda cx5 well reserved? DM for more details!",
+            "NameOfGroup": "Mazda sales cars group",
+            "PostDate": "25/11/2022 11:10"
+        }
+    ]
+
+}
+
